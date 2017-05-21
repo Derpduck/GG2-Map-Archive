@@ -1,11 +1,13 @@
 # GG2-Map-Archive
 http://www.ganggarrison.com
 
-An attempt at a public library of every Gang Garrison 2 map, including avaliable past versions, correct sorting, and correct naming.
-Use the search function at the top of the github page to find any map, or simply browse through the maps.
+A new attempt at a public library of every Gang Garrison 2 map, including available past versions, correct sorting by gamemode, and correct naming.  
+Use the search function at the top of the GitHub page to find a map, or simply browse through the maps.
 
-Anyone is free to contribute either by personally contacting me or directly through github. See https://help.github.com for instructions.
-Unfinished maps are welcome too, a compiled version is prefered.
+Anyone is free to contribute either by posting in the thread, personally contacting me, or directly contributing through github. See https://help.github.com for help.  
+Unfinished maps are welcome too, however a compiled and playable version is prefered. If a map is broken please let me know, and if you can, provide a working version of the map.
+
+Forum thread: http://www.ganggarrison.com/forums/index.php?topic=37692.0
 
 ## Requested Maps
 * cp_gravelpits (Haxxy 2011)
