@@ -3,7 +3,7 @@ http://www.ganggarrison.com
 
 A public library of every Gang Garrison 2 map, including available past versions, correctly sorted by gamemode, with correct and standardized naming.  
 Anyone is free to contribute either by posting in the thread, personally contacting me, or directly contributing through github **(this is preferred)**. See https://help.github.com for help.
-Unfinished maps are welcome, however a compiled and playable version is preferred. If a map is broken please let me know, and if you can, provide a working version of the map.
+Unfinished maps are welcome, however a compiled and playable version is preferred. If a map is broken create an issue on GitHub, and if you can, provide a working version of the map.
 
 ## Guidelines for Contributing
 Please try to follow these guidelines before contributing:
