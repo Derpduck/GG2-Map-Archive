@@ -16,7 +16,6 @@ Forum thread: http://www.ganggarrison.com/forums/index.php?topic=37692.0
 ## Requested Maps
 * cp_gravelpits (Haxxy 2011)
 * cp_space (Haxxy 2011)
-* koth_pillarpedestal (Haxxy 2015)
 * gametype_Reign (Haxxy 2015, by Spazz)
 * Old versions of ctf_conflict
 * Old versions of any other official maps
